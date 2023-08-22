@@ -1,0 +1,15 @@
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\bin\Debug\net6.0\HelloInDifferentLanguages.exe
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\bin\Debug\net6.0\HelloInDifferentLanguages.deps.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\bin\Debug\net6.0\HelloInDifferentLanguages.runtimeconfig.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\bin\Debug\net6.0\HelloInDifferentLanguages.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\bin\Debug\net6.0\HelloInDifferentLanguages.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\HelloInDifferentLanguages.csproj.AssemblyReference.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\HelloInDifferentLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\HelloInDifferentLanguages.AssemblyInfoInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\HelloInDifferentLanguages.AssemblyInfo.cs
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\HelloInDifferentLanguages.csproj.CoreCompileInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\HelloInDifferentLanguages.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\refint\HelloInDifferentLanguages.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\HelloInDifferentLanguages.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\HelloInDifferentLanguages.genruntimeconfig.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\HelloInDifferentLanguages\HelloInDifferentLanguages\obj\Debug\net6.0\ref\HelloInDifferentLanguages.dll
